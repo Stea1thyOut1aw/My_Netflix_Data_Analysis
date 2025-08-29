@@ -1,6 +1,3 @@
-# My_Netflix_Data_Analysis
-Here’s a complete, copy‑paste‑ready README.md tailored to the attached notebook, following widely accepted GitHub README best practices and data‑science documentation guidance. Each section is structured to help users understand, run, and extend the project effectively while aligning with GitHub’s formatting recommendations and common templates.[1][2][3][4][5][6][7][8]
-
 # Netflix Data Analysis using Python
 
 A concise, reproducible analysis of Netflix’s catalog using a Jupyter notebook. The project loads the public netflix_titles.csv dataset, explores content metadata (type, genres, ratings, countries, durations), and sets up a foundation for insights and recommendations for content strategy.[2][6]
